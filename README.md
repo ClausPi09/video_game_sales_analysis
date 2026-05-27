@@ -1,13 +1,16 @@
 # video_game_sales_analysis
-Objetivo:
+# Objetivo:
+
 Las ventas son el motor financiero de una empresa, el sostén y crecimiento para que una empresa se mantenga en el mercado, el objetivo de este proyecto es analizar las ventas de diferentes plataformas de videojuegos de 1980 al año 2016, donde se resolverán preguntas como:
-Preguntas clave:
+# Preguntas clave:
 -	¿Cuál es la duración promedio del ciclo de vida de una plataforma de videojuegos?
 -	¿Qué variables de comportamiento explican que un videojuego tenga mayores ventas o tenga éxito en el mercado?
 -	¿Cuál es la cuota de mercado para cada región?
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
+
 ---
-Habilidades y herramientas 
+
+# Habilidades y herramientas 
 *Programación: Python (pandas, numpy, matplotlib, scipy)
 * Manipulación de datos: Limpieza, transformación y preparación de conjuntos de datos complejos para su análisis
 * Análisis de datos: Análisis estadístico e inferencial, pruebas de hipótesis.
