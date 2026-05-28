@@ -22,7 +22,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 # 🗂️Metodología
 
 # Preparación de datos: 
-*	Se limpiaron los datos, y los datos nulos se trataron con valores correspondientes la media de cada variable.
+*	Se limpiaron los datos y los datos nulos se trataron con valores correspondientes la media de cada variable.
 *	Se verifico la ausencia de duplicados.
 
 # Análisis Exploratorio de Datos:
