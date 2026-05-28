@@ -1,5 +1,5 @@
 # video_game_sales_analysis
-🎯# Objetivo:
+# 🎯Objetivo:
 
 Las ventas son el motor financiero de una empresa, el sostén y crecimiento para que una empresa se mantenga en el mercado, el objetivo de este proyecto es analizar las ventas de diferentes plataformas de videojuegos de 1980 al año 2016, donde se resolverán preguntas como:
 # Preguntas clave:
@@ -10,7 +10,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 
 ---
 
-🧠# Habilidades y 🛠️Herramientas 
+# 🧠Habilidades y 🛠️Herramientas 
 * Programación: Python (pandas, numpy, matplotlib, scipy)
 * Manipulación de datos: Limpieza, transformación y preparación de conjuntos de datos complejos para su análisis
 * Análisis de datos: Análisis estadístico e inferencial, pruebas de hipótesis.
@@ -19,7 +19,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 
 ---
 
-🗂️# Metodología
+# 🗂️Metodología
 
 # Preparación de datos: 
 *	Se limpiaron los datos, y los datos nulos se trataron con valores correspondientes la media de cada variable.
@@ -37,7 +37,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 
 ---
 
-📊# Conclusiones:
+# 📊Conclusiones:
 
 *	El ciclo de vida de una plataforma en el mercado de 1980 al 2016 en promedio es de 7 años y medio.
 *	El primer mapa de calor, muestra que las ventas totales tienen una correlación positiva con la variable “user_score”, esto significa que si un usuario da un mejor puntaje a un videojuego tiene mayor éxito de venta. En el segundo mapa de calor, las ventas totales tienen una correlación positiva de la cantidad calificaciones que le asignan los críticos y los usuarios a una plataforma, esto quiere decir que entre mayor sea el número de críticos y de usuarios que califiquen un videojuego, mayores serán las ventas.
@@ -46,7 +46,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 
 ---
 
-📈 # Estrategias recomendadas
+# 📈Estrategias recomendadas
 *	Aprovechar los primeros años de una plataforma, ya que normalmente concentran mayores oportunidades de ventas y crecimiento.
 *	Dar seguimiento a reseñas y comentarios posteriores al lanzamiento para mejorar reputación. 
 *	Reducir errores técnicos y problemas de rendimiento que afectan las calificaciones.
