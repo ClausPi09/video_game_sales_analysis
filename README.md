@@ -40,7 +40,7 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 # 📊Conclusiones:
 
 *	El ciclo de vida de una plataforma en el mercado de 1980 al 2016 en promedio es de 7 años y medio.
-*	El primer mapa de calor, muestra que las ventas totales tienen una correlación positiva con la variable “user_score”, esto significa que si un usuario da un mejor puntaje a un videojuego tiene mayor éxito de venta. En el segundo mapa de calor, las ventas totales tienen una correlación positiva de la cantidad calificaciones que le asignan los críticos y los usuarios a una plataforma, esto quiere decir que entre mayor sea el número de críticos y de usuarios que califiquen un videojuego, mayores serán las ventas.
+*	El primer mapa de calor, muestra que las ventas totales tienen una correlación positiva con la variable “user_score”, esto significa que si un usuario da un mejor puntaje a un videojuego tiene mayor éxito de venta. En el segundo mapa de calor, las ventas totales tienen una correlación positiva de la cantidad de calificaciones que le asignan los críticos y los usuarios a una plataforma, esto quiere decir que entre mayor sea el número de críticos y de usuarios que califiquen un videojuego, mayores serán las ventas.
 *	La región donde se concentran más del 50% de las ventas totales es en Norteamérica con una Cuota de Mercado del 54.88%, Europa con el 32.43% y Japón solo representa el 12.69%
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
 
