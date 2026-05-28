@@ -1,4 +1,4 @@
-# video_game_sales_analysis
+# Análisis de Ventas de Videojuegos 
 # 🎯Objetivo:
 
 Las ventas son el motor financiero de una empresa, el sostén y crecimiento para que una empresa se mantenga en el mercado, el objetivo de este proyecto es analizar las ventas de diferentes plataformas de videojuegos de 1980 al año 2016, donde se resolverán preguntas como:
