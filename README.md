@@ -11,10 +11,10 @@ Las ventas son el motor financiero de una empresa, el sostén y crecimiento para
 ---
 
 # 🧠Habilidades y 🛠️Herramientas 
-* Programación: Python (pandas, numpy, matplotlib, scipy)
-* Manipulación de datos: Limpieza, transformación y preparación de conjuntos de datos complejos para su análisis
+* Programación: Python (pandas, numpy, matplotlib, scipy).
+* Manipulación de datos: Limpieza, transformación y preparación de conjuntos de datos complejos para su análisis.
 * Análisis de datos: Análisis estadístico e inferencial, pruebas de hipótesis.
-* Visualización de datos: Power BI (Creación de visualizaciones)
+* Visualización de datos: Power BI (Creación de visualizaciones).
 <img width="1" height="1" alt="image" src="https://github.com/user-attachments/assets/ff502aab-3b19-4997-8c27-b010954ae2f8" />
 
 ---
